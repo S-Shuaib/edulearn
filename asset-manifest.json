@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/edulearn/static/css/main.478cc99a.css",
+    "main.js": "/edulearn/static/js/main.1331aeb0.js",
+    "static/media/image1.jpg": "/edulearn/static/media/image1.8bd04d23ee9031417909.jpg",
+    "static/media/image5.jpg": "/edulearn/static/media/image5.e85e52767c3d477be931.jpg",
+    "static/media/image3.jpg": "/edulearn/static/media/image3.e51ed70662eedf44b7f0.jpg",
+    "static/media/image4.jpg": "/edulearn/static/media/image4.3c0c955b3b882a18b72e.jpg",
+    "static/media/image.png": "/edulearn/static/media/image.fb0013d6813468c5f48c.png",
+    "static/media/icons8-google.svg": "/edulearn/static/media/icons8-google.b40778ce9db962e9de29649090e3d307.svg",
+    "index.html": "/edulearn/index.html",
+    "static/media/arrow-right-solid.svg": "/edulearn/static/media/arrow-right-solid.7d4d670713bbe103d94709c119917bb5.svg",
+    "main.478cc99a.css.map": "/edulearn/static/css/main.478cc99a.css.map",
+    "main.1331aeb0.js.map": "/edulearn/static/js/main.1331aeb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478cc99a.css",
+    "static/js/main.1331aeb0.js"
+  ]
+}
